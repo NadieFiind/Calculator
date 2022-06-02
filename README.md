@@ -1,39 +1,41 @@
-> Date Created: November, 2020
-
 # Calculator
+A terminal-based calculator written in Java.
 
-## This was my second Java program. (im never gonna touch java again)
-
-## !!! VERY UNSTABLE !!!
+### !!! VERY UNSTABLE !!!
 
 ### Supported Tokens
-```yaml
-Operators:
-  Addition      : +
-  Subtraction   : -
-  Multiplication: *
-  Division      : /
-  Modulo        : %
-  Exponentiation: ^
-Brackets :
-  Opening Parenthesis: (
-  Closing Parenthesis: )
-Digits   :
-  0-9
+Whitespaces are ignored.
+
+#### Operators
 ```
-### Supported
+Addition      : +
+Subtraction   : -
+Multiplication: *
+Division      : /
+Modulo        : %
+Exponentiation: ^
+```
+
+#### Brackets
+```
+Opening Parenthesis: (
+Closing Parenthesis: )
+```
+
+### Supported Syntax
 ```yaml
 +-
 -+
 ++
 --
 ```
-### Not Supported
+
+### Unsupported Supported Syntax
 ```yaml
 Decimal Place          : .
 Implicit Multiplication: 2(10)
 ```
-### Ignored Characters
-```yaml
-Whitespaces
-```
+
+This was my second ever Java program. (im never gonna touch java again)
+
+<sub>Date Created: November, 2020</sub>
