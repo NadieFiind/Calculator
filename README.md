@@ -30,12 +30,12 @@ Closing Parenthesis: )
 --
 ```
 
-### Unsupported Supported Syntax
+### Unsupported Syntax
 ```yaml
 Decimal Place          : .
 Implicit Multiplication: 2(10)
 ```
 
-This was my second ever Java program. (im never gonna touch java again)
+This was my second ever Java program. (im never gonna ~~give you up~~ touch java again)
 
 <sub>Date Created: November, 2020</sub>
